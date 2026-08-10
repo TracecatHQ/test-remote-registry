@@ -1,7 +1,7 @@
 # Tracecat Starter Kit
 
 Click on `Use this template` to copy Tracecat's custom integrations starter kit.
-Then check out the [custom registry installation docs](https://docs.tracecat.com/tutorials/custom-integrations).
+Then check out the [custom registry installation docs](https://docs.tracecat.com/custom-actions/custom-registry).
 
 
 This starter kit contains:
