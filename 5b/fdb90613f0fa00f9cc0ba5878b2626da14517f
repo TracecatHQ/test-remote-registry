@@ -1,0 +1,19 @@
+README.md
+  s_22a62992ec0e60::t_bb1e00c6846364 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "5bfdb90613f0fa00f9cc0ba5878b2626da14517f",
+  "prompts": {},
+  "sessions": {
+    "s_22a62992ec0e60": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b028fa47-0524-4bb1-b99f-272ebc00eb6a",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Chris Lo <46541035+topher-lo@users.noreply.github.com>"
+    }
+  }
+}
